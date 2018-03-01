@@ -1,19 +1,22 @@
-var api = "http://apihost.com:port";
+var api = "http://bbs.npool.pw:8115";
 
-var poolHost = "apihost.com";
+var poolHost = "bbs.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/coin";
+var blockExplorer = "https://explorer.bbscoin.xyz/";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
-var blockchainExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchain_block";
+var blockchainExplorer = "https://explorer.bbscoin.xyz/?hash={id}#blockchain_block";
 
-var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchain_transaction";
+var transactionExplorer = "https://explorer.bbscoin.xyz/?hash={id}#blockchain_transaction";
 
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"],
+        ["pool.bbscoin.xyz", "http://pool.bbscoin.xyz:8117"],
+        ["bbs.pool.pilbeams.net", "http://bbs.pool.pilbeams.net:8111"],
+        ["bbscoinpool.club", "http://us.bbscoinpool.club:8117"],
+        ["npool.pw/bbscoin", "http://bbs.npool.pw:8115"]
 ];
