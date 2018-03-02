@@ -18,5 +18,6 @@ var networkStat = [
         ["pool.bbscoin.xyz", "http://pool.bbscoin.xyz:8117"],
         ["bbs.pool.pilbeams.net", "http://bbs.pool.pilbeams.net:8111"],
         ["bbscoinpool.club", "http://us.bbscoinpool.club:8117"],
+        ["cryptoknight.cc/bbs", "http://78.46.85.142:2778"],
         ["npool.pw/bbscoin", "http://bbs.npool.pw:8115"]
 ];
