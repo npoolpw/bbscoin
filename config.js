@@ -4,7 +4,7 @@ var poolHost = "bbs.npool.pw";
 
 var blockExplorer = "https://explorer.bbscoin.xyz/";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["BBS-BTC", "BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
